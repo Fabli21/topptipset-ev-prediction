@@ -1,6 +1,6 @@
 # topptipset-ev-prediction
 
-Ett statistiskt modelleringsprojekt i R som skattar sannolikheter och förväntat värde (EV) för Svenska Spels Topptipset, baserat på oddsimplicita sannolikheter och "Svenska Folket"-data.
+Ett självinitierat fritidsprojekt i R som skattar sannolikheter och förväntat värde (EV) för Svenska Spels Topptipset, baserat på oddsimplicita sannolikheter och "Svenska Folket"-data.
 
 ## Vad gör skriptet?
 
@@ -33,4 +33,4 @@ Modellen bygger på idén att avvikelser mellan bookmakerns implicita sannolikhe
 
 ## Disclaimer
 
-Detta är ett akademiskt projekt i sannolikhetsmodellering och statistisk inference, inte en rekommendation att spela. Använd på egen risk.
+Detta är ett personligt projekt i sannolikhetsmodellering och statistisk inferens, inte en rekommendation att spela. Använd på egen risk.
